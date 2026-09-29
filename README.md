@@ -1,8 +1,12 @@
 # Hospitality Analytics – Tableau Dashboard
 
 ## Project Overview
+
 This project analyzes hotel booking data using Tableau to identify booking trends, revenue performance, occupancy, cancellations, and other key business metrics.
 
+## Dashboard Preview
+
+![Tableau Hospitality Dashboard](Tableau%20Hospitality%20Dashboard.jpeg)
 ## Key KPIs
 - Total Bookings
 - Revenue Realized
